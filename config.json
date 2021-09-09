@@ -1,0 +1,10 @@
+{
+   "serial": {
+      "comPort": "/dev/ttyS3",
+      "comSpeed": 38400,
+      "comDataBits": 8,
+      "comOdd": 0,
+      "comStopBits": 1
+   },
+   "workPath": "/home/roma/Orion"
+}

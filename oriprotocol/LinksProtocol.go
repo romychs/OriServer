@@ -1,0 +1,5 @@
+package oriprotocol
+
+func loadFileAsLinks() {
+
+}
