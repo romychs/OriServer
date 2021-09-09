@@ -1,0 +1,10 @@
+*.debug
+*.log
+*.dat
+
+/OriServer
+/Run_OriServer.exe
+/.idea/
+/.vscode/
+*.glade#
+*.glade~
